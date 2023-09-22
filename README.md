@@ -1,4 +1,4 @@
-# IntroToBioinformatics
+# Intro To Bioinformatics
 A collection of beginner resources
 
 Tmux Cheatsheet: 
